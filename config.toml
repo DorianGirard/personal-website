@@ -1,6 +1,6 @@
-baseURL = "https://statsandsports.netlify.app"
+baseURL = "https://doriangirard.netlify.app"
 theme = "hugo-apero"
-languageCode = "en"
+languageCode = "fr"
 #title = "Hugo Apéro"
 title = "Dorian Girard"
 author = "Dorian Girard"
@@ -31,10 +31,10 @@ enableEmoji = true
 [params]
   orgName = "RStudio"
   orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/tabler-icon-chart-bar.png"
-  mainSections = ["blog", "project", "talk"]
+  description = "Site personnel de Dorian Girard, journaliste sportif et amateur de traitement de données."
+  favicon = "/img/favicon2.ico"
+  logo = "/img/tabler-icon-chart-bar.svg"
+  mainSections = ["À propos", "blog", "cv"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -44,7 +44,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "DorianGirard_"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -69,13 +69,13 @@ enableEmoji = true
   textFontFamily = "sans-serif"
   headingFontFamily = "sans-serif"
 
-  # Configuration of https://utteranc.es/ for comments
-  [params.utterances]
-    use_utterances = true
-    repo_name = "apreshill/apero"
-    issue_term = "pathname" # url, pathname, or title
-    theme = "boxy-light"
-    label = "comments :crystal_ball:"
+  #Configuration of https://utteranc.es/ for comments
+  #[params.utterances]
+  #  use_utterances = false
+   # repo_name = "apreshill/apero"
+  #  issue_term = "pathname" # url, pathname, or title
+  #  theme = "boxy-light"
+   # label = "comments :crystal_ball:"
 
   # Configuration of math rendering
   [params.math]
