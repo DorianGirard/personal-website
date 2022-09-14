@@ -127,9 +127,9 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "À propos"
-    title = "À propos"
-    url = "/a-propos/"
+    name = "about"
+    title = "about"
+    url = "/about/"
     weight = 1
   [[menu.header]]
     name = "blog"
