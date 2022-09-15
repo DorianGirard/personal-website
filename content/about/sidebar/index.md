@@ -5,13 +5,13 @@ role: "Journaliste sportif à Ouest-France · Datajournaliste"
 avatar_shape: circle # square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list_label: "Intérêts" # bookmarks, elsewhere, etc.
 link_list:
 - name: Actualité sportive
   url: 
-- name: Datajournalisme
+- name: Programmation web
   url: 
-- name: Programmation
+- name: Sports mécaniques
   url: 
 ---
 

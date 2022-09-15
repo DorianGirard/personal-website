@@ -127,8 +127,8 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "about"
-    title = "about"
+    name = "à propos"
+    title = "à propos"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -136,11 +136,11 @@ enableEmoji = true
     title = "Blog"
     url = "/blog/"
     weight = 2
-  #[[menu.header]]
-    #name = "Projects"
-    #title = "Project Portfolio"
-    #url = "/project/"
-    #weight = 3
+  [[menu.header]]
+    name = "productions"
+    title = "Productions"
+    url = "/project/"
+    weight = 3
   #[[menu.header]]
     #name = "Talks"
     #title = "Talks"
@@ -149,7 +149,7 @@ enableEmoji = true
   [[menu.header]]
     name = "cv"
     title = "CV"
-    url = "/curiculum-vitae/"
+    url = "/collection/"
     weight = 5
   #[[menu.header]]
   #  name = "Elements"

@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Pour en apprendre un peu plus sur moi.
+  Pour en apprendre un peu plus sur moi
 ---
 
 <!-- this is a subheadline -->
