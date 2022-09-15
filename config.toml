@@ -141,16 +141,12 @@ enableEmoji = true
     title = "Productions"
     url = "/project/"
     weight = 3
-  #[[menu.header]]
-    #name = "Talks"
-    #title = "Talks"
-    #url = "/talk/"
-    #weight = 4
   [[menu.header]]
-    name = "cv"
+    name = "CV"
     title = "CV"
-    url = "/collection/"
-    weight = 5
+    url = "/resume/"
+    weight = 4
+    
   #[[menu.header]]
   #  name = "Elements"
   #  title = "Element Page"
